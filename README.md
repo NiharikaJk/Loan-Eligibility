@@ -33,7 +33,12 @@ The dataset includes the following fields:
 - **Loan_Status**: Loan approved (Y/N)
 
 ## Approach
-1. **Data Preprocessing**: Handle missing values, encode categorical variables, and normalize numerical features.
-2. **Exploratory Data Analysis (EDA)**: Understand the distribution of variables and relationships between them.
-3. **Model Building**: Use machine learning algorithms to build predictive models.
+1. **Data Preprocessing**: Handle missing values, encode categorical variables, and normalize numerical features, encoding cateforical variables.
+2. **Exploratory Data Analysis (EDA)**: Understand the distribution of variables and relationships between them, univariate and bivariate analysis, correlational analysis.
+3. **Model Building**: Use machine learning algorithms to build predictive models, Logistic Regression, Random Forest, Gradient Boosting, SVM, KNN, Decision Trees, Naive Bayes, Ensemble Methods- Bagging and Stacking
 4. **Model Evaluation**: Evaluate models using appropriate metrics and select the best-performing model.
+
+## Author
+- Niharika J N
+- niharika.jkn07@gmail.com
+- https://www.linkedin.com/in/niharika-jkn/
